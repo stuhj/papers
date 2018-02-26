@@ -1,14 +1,14 @@
-# Introduction
-此repo为本人读论文的总结。
+# paper summary
+Summary of reading paper, focusing on distributed system fields.
 
 # Papers
 
 ## System
 
-- google file system ([学习笔记](doc/gfs.md))
-- bigtable([学习笔记](doc/bigtable.md))
-- mapreduce([学习笔记](doc/mapreduce.md))
-- chubby([学习笔记](doc/chubby.md))
+- google file system ([learning note](doc/gfs.md))
+- bigtable([learning note](doc/bigtable.md))
+- mapreduce([learning note](doc/mapreduce.md))
+- chubby([learning note](doc/chubby.md))
 - spanner
 - dynamo
 - megastore
@@ -20,7 +20,7 @@
 - google borg
 - Windows Azure Storage: A high available cloud storage service with strong consistency
 - facebook haystack
-- What's Really New in NewSQL? ([学习笔记](doc/newsql.md))
+- What's Really New in NewSQL? ([learning note](doc/newsql.md))
 
 ## Database
 
@@ -28,8 +28,8 @@
 
 ## Protocol or Algorithm
 
-- Raft ([学习笔记一](doc/raft_one.md) | [学习笔记二](doc/raft_two.md) | [学习笔记三](doc/raft_three.md))
+- Raft ([learning note 1](doc/raft_one.md) | [learning note 1](doc/raft_two.md) | [learning note 1](doc/raft_three.md))
 - Paxos ([Basic Paxos](doc/paxos-principle-first.md))
-- Consistent Hash ([学习笔记](doc/consistent-hash.md))
-- A Critique of ANSI SQL Isolation Levels ([学习笔记](doc/transaction-isolation-fisrt))
+- Consistent Hash ([learning note](doc/consistent-hash.md))
+- A Critique of ANSI SQL Isolation Levels ([learning note](doc/transaction-isolation-fisrt))
 - CAP
